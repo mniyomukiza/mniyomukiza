@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **mniyomukiza/mniyomukiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, world!
-I'm Micky, 
-A computer science enthusiast 
-I'm always searching for new projects to learn from 
+# Hello, world! 👋
+I'm Micky, <br/>
+A computer science enthusiast <br/>
+I'm always searching for new projects to learn from <br/>
 I'm currently planning on working on a web-oriented project 
