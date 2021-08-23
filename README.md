@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello, world!
+I'm Micky,
+A computer science enthusiast
+I'm always searching for new projects to learn from
+I'm currently planning on working on a web-oriented project
